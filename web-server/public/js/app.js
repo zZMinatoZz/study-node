@@ -1,0 +1,1 @@
+console.log('Js from the server loaded!')
